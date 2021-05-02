@@ -1,0 +1,1 @@
+# xgnid.github.io/blog
