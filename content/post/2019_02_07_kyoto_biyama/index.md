@@ -12,10 +12,6 @@ tags:
 keywords:
 - travel
 thumbnailImage: images/posts/2019_02_07_kyoto_biyama/thumbnail.jpg
-coverImage: "/images/posts/2019_02_07_kyoto_biyama/15.jpg"
-coverCaption
-metaAlignment: center
-coverMeta: out
 ---
 <!--more-->
 ## 京都美山町
