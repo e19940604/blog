@@ -14,10 +14,10 @@
 
 baseURL = "https://xgnid-tw.github.io/blog/"
 languageCode = "en-us"
-defaultContentLanguage = "zh-utw"
+defaultContentLanguage = "zh-tw"
 title = "Xgnid's Blog"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "xgnid-tw"
 googleAnalytics = "271061890"
 paginate = 7
 canonifyurls = true
@@ -132,7 +132,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "停滯的不是這個世界，而是你的腳"
 
   # Customization
   # Define the behavior of the sidebar
