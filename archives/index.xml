@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Xgnid&#39;s Blog</title>
-    <link>https://xgnid.github.io/blog/archives/</link>
+    <link>https://xgnid-tw.github.io/blog/archives/</link>
     <description>Recent content in Archives on Xgnid&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://xgnid.github.io/blog/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://xgnid-tw.github.io/blog/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
