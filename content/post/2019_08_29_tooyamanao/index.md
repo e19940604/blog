@@ -7,19 +7,21 @@ tags:
 - ライブ
 - 東山奈央
 keywords:
-thumbnailImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpg
+thumbnailImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpeg
+coverImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpg
+metaAlignment: center
+coverMeta: out
 ---
 其實本來沒打算來這場的，不過在開始抽票的時候我剛好在補動畫ーー「月色真美」被片頭片尾曲整個打進去。又剛好友人問有沒有人要借用FC會員抽票，就順手拿來抽了大阪場。不抽還好沒想到一抽就是…..
 <!--more-->
-## 交通
 
-{{< image classes="fancybox center" src="/images/posts/2019_08_29_tooyamanao/01.png"  title="第五列！" >}}
+{{< image classes="fancybox center" src="/images/posts/2019_08_29_tooyamanao/01.jpeg"  title="第五列！" >}}
 一舉成為今年抽到的最前列…非主推抽比較好都是真的（
 
 進場前的花籃
 
-{{< image classes="fancybox center" src="/images/posts/2019_08_29_tooyamanao/02.png"   >}}
-{{< image classes="fancybox center" src="/images/posts/2019_08_29_tooyamanao/03.png"  >}}
+{{< image classes="fancybox fig-50" src="/images/posts/2019_08_29_tooyamanao/02.jpeg"   >}}
+{{< image classes="fancybox fig-50" src="/images/posts/2019_08_29_tooyamanao/03.jpeg"  >}}
 
 先上歌單
 1. 群青インフィニティ
@@ -47,10 +49,10 @@ thumbnailImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpg
 
 舞台背景是八塊LED螢幕，兩層舞台大概像這樣，黑色部分是螢幕，白色部分是簍空的部分，最下面兩層能作為舞台出入口，一階的中央螢幕也能從中間打開進出
 
-▇▢▇▢▇
-▢▇▢▇▢ 二階
-——–—–
-▇▢▇▢▇ 一階
+▇▢▇▢▇  
+▢▇▢▇▢ 二階  
+——–—–  
+▇▢▇▢▇ 一階  
 
 特別設計過螢幕會投影螢幕後方的動作，這點在後面舞曲部分用了很多讓整體的可看性更高。 順帶一提物販的手燈可以被工作人員控制自動變色，所以我那天舉起王劍後又默默收下去變成空手..換色根本來不及，而且我更想看到台下手燈的一致性。
 
