@@ -12,6 +12,7 @@ tags:
 keywords:
 - travel
 thumbnailImage: images/posts/2019_02_07_kyoto_biyama/thumbnail.jpg
+metaAlignment: center
 ---
 日前在安排月底白川鄉行程時，聽到友人說京都也有個茅葺村落在美山町，查了才發現月底有雪燈廊的點燈活動，正好活動初日(1/26)沒有打工，就安排了一下行程來趟一日旅。
 <!--more-->
