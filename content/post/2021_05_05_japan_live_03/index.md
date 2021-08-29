@@ -9,7 +9,7 @@ tags:
 - 生活
 - 工作
 thumbnailImage: images/posts/2021_05_05_japan_live_03/01.jpeg
-coverImage: images/posts/2021_05_05_japan_live_03/01.jpeg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2021_05_05_japan_live_03/01.jpeg
 metaAlignment: center
 coverMeta: out
 ---

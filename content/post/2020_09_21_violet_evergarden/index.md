@@ -10,7 +10,7 @@ tags:
 - 紫羅蘭永恆花園
 - 京阿尼
 thumbnailImage: images/posts/2020_09_21_violet_evergarden/thumbnail.jpeg
-coverImage: images/posts/2020_09_21_violet_evergarden/thumbnail.jpeg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2020_09_21_violet_evergarden/thumbnail.jpeg
 metaAlignment: center
 coverMeta: out
 #thumbnailImage: //example.com/image.jpg

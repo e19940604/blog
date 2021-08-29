@@ -9,7 +9,7 @@ tags:
 - 生活
 keywords:
 thumbnailImage: images/posts/2020_03_japan_live_01/thumbnail.jpeg
-coverImage: images/posts/2020_03_japan_live_01/thumbnail.jpeg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2020_03_japan_live_01/thumbnail.jpeg
 metaAlignment: center
 coverMeta: out
 ---

@@ -15,7 +15,7 @@ tags:
 keywords:
 - live
 thumbnailImage: images/posts/2019_07_30_million_6th_sendai/01.jpg
-coverImage: images/posts/2019_07_30_million_6th_sendai/00.jpg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2019_07_30_million_6th_sendai/00.jpg
 metaAlignment: center
 coverMeta: out
 ---

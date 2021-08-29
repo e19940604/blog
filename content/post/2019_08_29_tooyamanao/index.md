@@ -8,7 +8,7 @@ tags:
 - 東山奈央
 keywords:
 thumbnailImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpeg
-coverImage: images/posts/2019_08_29_tooyamanao/thumbnail.jpg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2019_08_29_tooyamanao/thumbnail.jpeg
 metaAlignment: center
 coverMeta: out
 ---
