@@ -19,7 +19,7 @@ title = "Xgnid's Blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "xgnid-tw"
 googleAnalytics = "271061890"
-paginate = 7
+paginate = 10
 canonifyurls = true
 
 [permalinks]
@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Xgnid's Blog"
-  bio = "喜歡一人旅的宅宅工程師"
+  bio = "只是一個懶惰不愛寫文章的宅宅工程師"
   job = "Backend Engineer"
   location = "Taiwan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
