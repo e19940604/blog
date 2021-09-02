@@ -14,7 +14,9 @@ tags:
 keywords:
 - tech
 metaAlignment: center
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: images/posts/2020_11_29_youroukeiko/thumbnail.jpeg
+coverImage: //xgnid-tw.github.io/blog/images/posts/2020_11_29_youroukeiko/31.jpeg
+coverMeta: out
 ---
 
 因武漢肺炎而進入緊急狀態後，幾乎沒什麼機會能夠出遠門。從三月來到日本到現在也有將近半年了，肺炎的情況看似也不會好轉，不過至少人數還在一定控制，因此決定趁著紅葉期間來一趟久違的兩天一夜溫泉旅。
@@ -119,9 +121,9 @@ https://travel.rakuten.co.jp/HOTEL/52914/52914.html
 
 {{< image classes="fancybox left fig-50" group="train" src="/images/posts/2020_11_29_youroukeiko/25.jpeg" >}}
 
-{{< image classes="fancybox center" group="train" src="/images/posts/2020_11_29_youroukeiko/26.jpeg"   >}}
-{{< image classes="fancybox center" group="train" src="/images/posts/2020_11_29_youroukeiko/27.jpeg" title="居然是螃蟹味噌湯！！！！！"  >}}
+{{< image classes="fancybox center fig-33" group="train" src="/images/posts/2020_11_29_youroukeiko/28.jpeg"   >}}
+{{< image classes="fancybox center fig-33" group="train" src="/images/posts/2020_11_29_youroukeiko/29.jpeg"   >}}
+{{< image classes="fancybox center fig-33" group="train" src="/images/posts/2020_11_29_youroukeiko/30.jpeg"   >}}
 
-{{< image classes="fancybox center" group="train" src="/images/posts/2020_11_29_youroukeiko/28.jpeg"   >}}
-{{< image classes="fancybox center" group="train" src="/images/posts/2020_11_29_youroukeiko/29.jpeg"   >}}
-{{< image classes="fancybox center" group="train" src="/images/posts/2020_11_29_youroukeiko/30.jpeg"   >}}
+{{< image classes="fancybox center fig-75" group="train" src="/images/posts/2020_11_29_youroukeiko/26.jpeg"   >}}
+{{< image classes="fancybox center fig-25" group="train" src="/images/posts/2020_11_29_youroukeiko/27.jpeg" title="居然是螃蟹味噌湯！！！！！"  >}}
