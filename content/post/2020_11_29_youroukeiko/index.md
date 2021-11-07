@@ -11,8 +11,6 @@ tags:
 - 紅葉
 - 養老渓谷
 - 鋸山
-keywords:
-- tech
 metaAlignment: center
 thumbnailImage: images/posts/2020_11_29_youroukeiko/thumbnail.jpeg
 coverImage: //xgnid-tw.github.io/blog/images/posts/2020_11_29_youroukeiko/31.jpeg
