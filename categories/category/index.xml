@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category on Xgnid&#39;s Blog</title>
+    <link>https://xgnid-tw.github.io/blog/categories/category/</link>
+    <description>Recent content in category on Xgnid&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jan 2022 19:47:04 +0900</lastBuildDate><atom:link href="https://xgnid-tw.github.io/blog/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>https://xgnid-tw.github.io/blog/2022/01/index/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:04 +0900</pubDate>
+      
+      <guid>https://xgnid-tw.github.io/blog/2022/01/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
