@@ -12,8 +12,8 @@ tags:
 - 養老渓谷
 - 鋸山
 metaAlignment: center
-thumbnailImage:
-coverImage: 
+thumbnailImage: https://lh3.googleusercontent.com/vqeuWzeEBu043Sda-NTlfq9P53QnM7dumfzGjv50P8K0HI2nYY1cmiivpAnERRgg_Gm_g9ob_IiKo86DjUJubEGh6hK5cg3LYEFpmHcvgSuLjLmwNMs7JQGwOqFsOkhCld5qirTNXQ=w2400
+coverImage: https://lh3.googleusercontent.com/pGqYKF8HtuzsREdEqOjrKnc_da4mneWchcp-W6MmLdWV9t0C1_H-ifIOzwF3EMhFLoOG0Wczlc2MqSAaFAvbddnYtxl1Pdq7oXSBUOOet8OPN1hlt9eA53h4ecohduuvC0kN9JEFrQ=w2400
 coverMeta: out
 ---
 
